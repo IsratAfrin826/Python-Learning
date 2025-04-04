@@ -14,7 +14,11 @@ Python is a versatile programming language used for a wide range of applications
 Data type - integer, floating point/decimal,string
 
 Backslash character/ Escape Sequences
+
               \n = new line
+              
               \t = tab
+              
               \" = "
+              
               \' = '
