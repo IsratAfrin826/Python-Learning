@@ -22,3 +22,17 @@ Backslash character/ Escape Sequences
               \" = "
               
               \' = '
+
+### Basic Numerical Operations
+
+              +
+
+              -
+
+              *
+
+              /
+
+              //(FLOOR)
+
+              **(EXPONENTIATION)
