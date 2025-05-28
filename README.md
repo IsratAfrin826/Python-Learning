@@ -37,11 +37,11 @@ Backslash character/ Escape Sequences
 
               **(EXPONENTIATION)
 
-### Relational Operator                              Boolean Values
+### Relational Operator                               Boolean Values
 
-             >                                       True                               
+             >                                    True                               
 
-             >=                                      False
+             >=                                   False
 
              <
 
