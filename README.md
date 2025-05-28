@@ -39,9 +39,9 @@ Backslash character/ Escape Sequences
 
 ### Relational Operator                               Boolean Values
 
-             >                                    True                               
+             >                              True                               
 
-             >=                                   False
+             >=                             False
 
              <
 
