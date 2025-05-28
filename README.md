@@ -37,11 +37,11 @@ Backslash character/ Escape Sequences
 
               **(EXPONENTIATION)
 
-### Relational Operator                        Boolean Values
+### Relational Operator                              Boolean Values
 
-             >                                    True                               
+             >                                       True                               
 
-             >=                                   False
+             >=                                      False
 
              <
 
@@ -60,6 +60,7 @@ Loop control statement(for , while)
 ## if statement syntex
 
  if expression:
+ 
  statements
 
 ## if , else syntax
