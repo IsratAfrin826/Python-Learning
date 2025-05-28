@@ -36,3 +36,64 @@ Backslash character/ Escape Sequences
               //(FLOOR)
 
               **(EXPONENTIATION)
+
+### Relational Operator                        Boolean Values
+
+             >                                    True                               
+
+             >=                                   False
+
+             <
+
+             <=
+
+             ==
+
+             !=
+
+## Control Statement 
+
+Conditional control statement (if , elif , else)
+
+Loop control statement(for , while)
+
+## if statement syntex
+
+ if expression:
+ statements
+
+## if , else syntax
+
+  if expression:
+
+    statements
+    
+  else:
+
+    statements
+
+**statement 1 -> if statement**
+
+**statement 2 -> if statement ,else statement**
+
+**statement 3 -> if statement , elif statement...... , else statement**
+
+**inner if statement** also called **nested if statement**
+
+## Logical Operator 
+
+        and    or     not
+
+## while loop
+
+    i= 1
+    
+    while i <= 10
+    
+    print (i)
+    
+    i = i + 1
+    
+print ("End")
+
+             
