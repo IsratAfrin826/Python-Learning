@@ -61,7 +61,7 @@ Loop control statement(for , while)
 
  if expression:
  
- statements
+     statements
 
 ## if , else syntax
 
