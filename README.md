@@ -112,26 +112,40 @@ Recursion is a process where a function can call itself.
 To stop calling we need a base case.
 
 **important points in case of Recursion**
+
 1. Recursive call
-2. Base case
+2. 
+3. Base case
 
 **Recursion example**
+
 5! = 5*4*3*2*1
+
 4! = 4*3*2*1
+
 3! = 3*2*1
+
 2! = 2*1
+
 1! = 1
 
 n! = n * (n-1)!
 
 
 int fact(int n)
+
 {
     //base case
+    
     if(n==1)
+    
           return 1;
+          
     else
+    
           return n * fact(n-1);
+
+}
 
 
 
