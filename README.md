@@ -103,6 +103,6 @@ A function without name(Anonymous Function)
 
 Not Powerful as named Function
 
-It can work with single expression/ single line code
+It can work with single expression/ single line of code
 
              
