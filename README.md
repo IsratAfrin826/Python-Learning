@@ -97,4 +97,12 @@ Loop control statement(for , while)
     
 print ("End")
 
+### Lamda Functions
+
+A function without name(Anonymous Function)
+
+Not Powerful as named Function
+
+It can work with single expression/ single line code
+
              
