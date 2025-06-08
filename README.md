@@ -195,6 +195,20 @@ __mul__(self,other)
 __div__(self,other)
 
 
+### Regular Expression
+
+Regular Expression are tools for manipulating string.
+
+### We need Regular Expression because
+
+     Verifying that strings match a pattern.
+
+     performing substitutions in a string
+
+
+Regular Expression can be accessed using the **re** module
+
+
 
 
              
