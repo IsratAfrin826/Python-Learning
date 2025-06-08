@@ -208,6 +208,12 @@ Regular Expression are tools for manipulating string.
 
 Regular Expression can be accessed using the **re** module
 
+     match() : matches at the beginning of a string.
+
+     search(): finds a match of a pattern anywhere in the string.
+
+     findall(): returns a list of all substrings that match a pattern.
+
 
 
 
