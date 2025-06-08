@@ -169,5 +169,32 @@ int fact(int n)
  6. Polymorphism
 
 
+### Magic methods for comparison
+
+__eq__(self,other)                for ==
+
+__ne__(self,other)                for !=
+
+__lt__(self,other)                for <
+
+__gt__(self,other)                for >
+
+__le__(self,other)                for <=
+
+__ge__(self,other)                for >=
+
+
+### Magic method for arithmetic calculation
+
+__add__(self,other)
+
+__sub__(self,other)
+
+__mul__(self,other)
+
+__div__(self,other)
+
+
+
 
              
