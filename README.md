@@ -148,5 +148,26 @@ int fact(int n)
 }
 
 
+### Object Orianted Programming
+
+1. Class
+
+2. Object
+
+3. Inheritance
+
+      Hierarchical
+
+      Multi-Level
+
+      Multiple
+
+ 4. Abstraction
+
+ 5. Encapsulation
+
+ 6. Polymorphism
+
+
 
              
